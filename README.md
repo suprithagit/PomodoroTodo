@@ -2,7 +2,7 @@
 
 **PomodoroTodo** is a productivity web application that seamlessly combines **task management** with the **Pomodoro technique** to help users stay focused and organized throughout the day.
 
-🌐 **Live App**: [Try it on Netlify](https://celadon-jalebi-6f752a.netlify.app)  
+🌐 **Live App**: [Try it on Netlify](https://cheerful-platypus-7cc130.netlify.app/)  
 🔧 **Tech Stack**: React, TypeScript, React Context API, localStorage
 
 ---
