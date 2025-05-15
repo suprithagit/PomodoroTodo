@@ -39,7 +39,7 @@ The app uses a **modular architecture**, separating concerns across components, 
 
 ---
 
-## 📸 Screenshots *(Optional)*
+## 📸 Screenshots 
 
 ![image](https://github.com/user-attachments/assets/c795b98e-cd11-4d87-88f1-4b07cf7d9eda)
 ![image](https://github.com/user-attachments/assets/66f4542b-99c1-404d-af06-c1b2cfacf7b5)
